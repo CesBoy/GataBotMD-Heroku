@@ -19,9 +19,9 @@
 </a>
     
 <p align="higt">   
-<a href="https://github.com/GataNina-Li/GataBotMD-Termux/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GataNina-Li/GataBotMD-Termux?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBotMD-Termux/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GataNina-Li/GataBotMD-Termux?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBotMD-Termux/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GataNina-Li/GataBotMD-Termux?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/GataNina-Li/GataBotMD-Heroku/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GataNina-Li/GataBotMD-Heroku?label=Forks&color=blue&style=flat-square"></a>
+<a href="https://github.com/GataNina-Li/GataBotMD-Heroku/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GataNina-Li/GataBotMD-Heroku?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/GataNina-Li/GataBotMD-Heroku/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GataNina-Li/GataBotMD-Heroku?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 -----

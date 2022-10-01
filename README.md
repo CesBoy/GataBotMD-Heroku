@@ -49,7 +49,7 @@
 ### 💖 ```DONAR``` [`Aquí`](https://paypal.me/OficialGD)
 -----
 * 𝗚𝗮𝘁𝗮𝗕𝗼𝘁 : 𝗛𝗲𝗿𝗼𝗸𝘂 💜
-> ESTA REPOSITORIO DE GATABOT SOLO ES PARA HEROKU.
+> ESTE REPOSITORIO DE GATABOT SOLO ES PARA HEROKU.
 * 𝗚𝗮𝘁𝗮𝗕𝗼𝘁 : 𝗧𝗲𝗿𝗺𝘂𝘅 💙
 > SI QUIERE INSTAR POR HEROKU USE [`GataBotMD-Termux`](https://github.com/GataNina-Li/GataBotMD-Termux)
 * 𝗚𝗮𝘁𝗮𝗕𝗼𝘁 : 𝗕𝗼𝘅𝗠𝗶𝗻𝗲 💛

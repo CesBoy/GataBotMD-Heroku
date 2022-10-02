@@ -420,7 +420,7 @@ global.rpgg = { //Solo emojis
       role: '💪',
       ramuan: '🧪',
       snake: '🐍',
-      stamina: '🦾',
+      stamina: '✨',
       strength: '🦹‍ ♀️',
       string: '🕸️',
       superior: '💼',

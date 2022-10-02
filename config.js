@@ -328,7 +328,7 @@ global.rpg = {
       role: '💪 Rango | Role',
       ramuan: '🧪 Ingredientes : Ingredients',
       snake: '🐍 Serpiente : Snake',
-      stamina: '🦾 Aguante : Stamina',
+      stamina: '✨ Energía : Energy',
       strength: '🦹‍ ♀️ Fuerza : Strength',
       string: '🕸️ Cuerda : Cuerda',
       superior: '💼 Superior : Superior',
